@@ -27,7 +27,7 @@
      color: #05c0d8;
 }
 
-@media (max-width: 620px){
+@media (max-width: 620px) and (min-width: 320px) {
     body{
         padding-top: 0;
     }

@@ -8,7 +8,7 @@ h1, h2, h3{
 	display: flex;
 	flex-direction: column;
 }
-@media (max-width: 620px){
+@media (max-width: 620px) and (min-width: 320px){
    .sidebar {
       order: -1;
 	}
