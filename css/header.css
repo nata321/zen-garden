@@ -1,5 +1,5 @@
 body {
-   max-width: 90%;
+   max-width: 1200px;
    margin: 0 auto;
    padding-top: 25%;
    font-family: 'Merriweather Sans', sans-serif;
@@ -20,8 +20,9 @@ a:visited {
     grid-template-rows: repeat(3, auto);
 }
  #zen-intro>div{
-        padding-bottom: 50px;
-        border-bottom: 1px solid #05c0d8;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #05c0d8;
+    margin-bottom: 50px;
     }
 header {
     grid-column: 2 / 5;

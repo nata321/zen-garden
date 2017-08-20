@@ -2,7 +2,7 @@
 .sidebar{
     position: fixed;
     top: 0;
-    width: 90%;
+    width: 1200px;
     height: auto;
     background-image: url('../img/bg-header.jpg');
 }
