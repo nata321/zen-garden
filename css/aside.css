@@ -39,7 +39,7 @@
     .wrapper {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
-        justify-items: start;
+        justify-items: center;
     }
     .design-selection {
         grid-column: 1 / 3;

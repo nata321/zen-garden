@@ -4,3 +4,13 @@ h1, h2, h3{
 	color: #05c0d8;
 	
 }
+.page-wrapper {
+	display: flex;
+	flex-direction: column;
+}
+@media (max-width: 620px){
+   .sidebar {
+      order: -1;
+	}
+	
+}
